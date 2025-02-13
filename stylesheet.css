@@ -73,3 +73,10 @@ body{
     color: white;
     font-weight: bold;
 }
+
+footer{
+    background-color: #06345d;
+    text-align: center;
+    padding: 60px;
+    color:gray;
+}
