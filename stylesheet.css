@@ -110,4 +110,33 @@ footer{
     background-color: black;
     font-size: 20px;
 }
+/*parte da estilização de serviços*/
+.serv{
+    background-color: #05192a;
+    font-size: 1.1em;
+    padding: 60px;
+    overflow: auto;
+}
 
+.serv h1{
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.serv h3{
+    color: #2097ff;
+    padding: 20px 0;
+}
+
+.serv article{
+    width: 40%;
+    float: center;
+    margin: auto;
+}
+
+.serv li{
+    margin-bottom: 20px;
+    margin-left: 20px;
+    color: white;
+}
